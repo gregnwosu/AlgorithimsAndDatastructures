@@ -1,3 +1,5 @@
+package datastructures;
+
 /**
  * Created with IntelliJ IDEA.
  * User: greg
